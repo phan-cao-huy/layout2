@@ -1,0 +1,35 @@
+.heading {
+  font-size: 40px;
+  font-weight: bold;
+}
+.title {
+  background-color: rgba(10, 130, 235, 0.644);
+  color: rgb(31, 31, 175);
+  font-size: xx-large;
+}
+.container {
+  width: 90%;
+  margin: 0 auto;
+  background-color: aliceblue;
+  padding: 10px;
+}
+span {
+  color: rgb(92, 92, 225);
+  font-weight: bold;
+}
+.highlight {
+  background-color: rgb(171, 169, 166);
+}
+body {
+  background-color: bisque;
+}
+img {
+  width: 180px;
+  top: 0;
+  right: 0;
+  position: absolute;
+  padding-top: 48px;
+}
+.content {
+  position: relative;
+}
